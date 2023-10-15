@@ -1,0 +1,17 @@
+/* src/styles/styles.css */
+@keyframes throwing-animation {
+    0% {
+      transform: translateX(0);
+    }
+    50% {
+      transform: translateX(100px);
+    }
+    100% {
+      transform: translateX(0);
+    }
+  }
+  
+  .throwing-image {
+    animation: throwing-animation 2s infinite;
+  }
+  

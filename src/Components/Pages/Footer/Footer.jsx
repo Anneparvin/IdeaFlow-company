@@ -1,10 +1,11 @@
 import React from 'react';
+import './Footer.css'
 
 const Footer = () => {
     return (
-        <div className='flex flex-row text-white space-x-10 space-y-16'>
+        <div className='flex flex-row text-white space-x-10 space-y-16 card'>
             <div className='w-2/5 mx-auto ml-72 mt-16'>
-                <img className='w-40' src='https://i.ibb.co/Lt3sT9s/5ef987561883fad47e90211c-Ideaflow-white-1-3x-removebg-preview-1.png' alt='pic'/>
+                <img className='w-40' src='https://i.ibb.co/GC3v328/download-removebg-preview.png' alt='pic'/>
             </div>
             <div className='flex flex-row w-full justify-evenly'>
             <div className="flex flex-col space-y-4">

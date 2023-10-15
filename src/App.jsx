@@ -8,6 +8,7 @@ import Suggest from './Components/Pages/Suggest/Suggest'
 import Profile from './Components/Pages/Profile/Profile'
 import HireMe from './Components/Pages/HireMe/HireMe'
 import Footer from './Components/Pages/Footer/Footer'
+import Gallery from './Components/Gallery/Gallery'
 
 function App() {
   
@@ -20,6 +21,7 @@ function App() {
      <GetFlow></GetFlow>
      <Connection />
      <Suggest></Suggest>
+     <Gallery></Gallery>
      <Profile></Profile>
      <HireMe></HireMe>
      <Footer></Footer>

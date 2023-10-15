@@ -1,0 +1,14 @@
+/* src/styles/styles.css */
+.image-gallery {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .image-gallery img {
+    transition: transform 0.2s;
+  }
+  
+  .image-gallery img:hover {
+    transform: scale(1.1);
+  }
+  

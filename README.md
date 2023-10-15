@@ -1,8 +1,27 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Project's Title: Welcome to Adidas Website
+This Projects is developed by (Forida Parven Anne)
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Technology Used on this projects
+1. vite
+2. React
+3. React-router-Dom
+4. Tailwind
+5. DaisyUi 
+7. FontAwsome
+8. Firebase
+9. HeroIcons
+10.React-Toastify
+11. 
+12. 
+13. 
+14. 
+
+
+## Live Site Link
+https://652bc4f61393ec5a7c6b2b7c--verdant-tulumba-01b0b1.netlify.app/
+
+
+## Github Link
+Client Side: https://github.com/Anneparvin/IdeaFlow-company

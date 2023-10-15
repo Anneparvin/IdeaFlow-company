@@ -1,0 +1,14 @@
+/* src/styles/animations.css */
+.batting-animation {
+    animation: batting 2s infinite;
+  }
+  
+  @keyframes batting {
+    0%, 100% {
+      transform: translateX(0);
+    }
+    50% {
+      transform: translateX(20px);
+    }
+  }
+  
