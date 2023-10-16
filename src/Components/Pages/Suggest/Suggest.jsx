@@ -3,8 +3,8 @@ import './Suggest.css'
 
 const Suggest = () => {
     return (
-        <div className='flex max-w-7xl mx-auto text-white mt-16 ml-96 space-y-8 space-x-16'>
- <div className='w-96 brightness-100 align-middle mt-30'>
+        <div className='flex lg:flex-row flex-col lg:max-w-7xl w-full mx-auto text-white mt-16 lg:ml-96 ml-2 space-y-8 space-x-16'>
+ <div className='lg:w-96 w-30 p-4 brightness-100 align-middle mt-30'>
                 <h2 className='text-4xl font-bold'>THE TREFOIL AND THE OLYMPIC IDEA</h2>
                 <hr className='w-72 align-baseline h-1 bg-slate-50 mt-3 mb-6'/>
                 <p className='mt-6 italic'>In 1972, the world turned to Germany when the Olympic Games opened in Munich. Just in time for the event, adidas presented a new logo that was here to stay: the Trefoil.
@@ -15,7 +15,7 @@ const Suggest = () => {
                 </p>
             </div>
 <div className='w-full'>
-    <img className='w-4/5 throwing-image' src='https://i.ibb.co/TR8kQ67/Germany-and-Argentina-face-off-in-the-final-of-the-World-Cup-2014-04-crop-removebg-preview.png' alt='pic'/>
+    <img className='lg:w-4/5 w-60 lg:p-2 p-8 throwing-image' src='https://i.ibb.co/TR8kQ67/Germany-and-Argentina-face-off-in-the-final-of-the-World-Cup-2014-04-crop-removebg-preview.png' alt='pic'/>
 </div>
         </div>
     );

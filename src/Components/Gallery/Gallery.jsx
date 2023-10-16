@@ -5,10 +5,10 @@ import './Gallery.css'
 const Gallery = () => {
     return (
         <div className="image-gallery">
-            <hr className='w-full bg-black h-1 mt-4'/>
-            <h1 className='text-6xl text-white font-bold mt-8'>Gallery Side</h1>
-            <h3 className='font-bold  text-white mt-4'>With Little People figures, toddlers can explore how exciting is the world around them!</h3>
-        <p className='text-xl bg-red-700 p-8 w-full rounded-xl font-bold mt-8  text-white'>Get FREE delivery on orders over R800 or Click & Collect nationwide at Toys R Us</p>
+            <hr className='lg:w-full w-30 lg:p-2 p-2 bg-black h-1 lg:mt-4 mt-8'/>
+            <h1 className='lg:text-6xl text-4xl text-white font-bold mt-8 lg:p-2 p-4'>Gallery Side</h1>
+            <h3 className='font-bold text-white mt-4 lg:p-0 p-4'>With Little People figures, toddlers can explore how exciting is the world around them!</h3>
+        <p className='text-xl bg-red-700 lg:p-8 p-4 w-full  rounded-xl font-bold mt-8  text-white'>Get FREE delivery on orders over R800 or Click & Collect nationwide at Toys R Us</p>
            
 
 <section className="py-6 dark:bg-gray-800 dark:text-gray-50">

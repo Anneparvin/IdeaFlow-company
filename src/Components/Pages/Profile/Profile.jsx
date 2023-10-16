@@ -3,7 +3,7 @@ import './Profile.css'
 
 const Profile = () => {
     return (
-        <div className='max-w-6xl mx-auto justify-around flex flex-row gap-4 mb-16 mt-16'>
+        <div className='lg:max-w-6xl w-full mx-auto justify-around flex lg:flex-row flex-col gap-4 mb-16 mt-16 py-4 px-4'>
         <div className='p-6 shadow-md rounded-xl sm:px-12 text-white backdrop-hue-rotate-90 bg-white/10 w-96 card'> 
             <div className="flex flex-row justify-start items-center">
                 <div>

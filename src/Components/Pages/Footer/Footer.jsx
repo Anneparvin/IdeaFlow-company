@@ -3,8 +3,8 @@ import './Footer.css'
 
 const Footer = () => {
     return (
-        <div className='flex flex-row text-white space-x-10 space-y-16 card'>
-            <div className='w-2/5 mx-auto ml-72 mt-16'>
+        <div className='flex lg:flex-row flex-col text-white space-x-10 space-y-16 card lg:p-0 px-2 py-8'>
+            <div className='lg:w-2/5 w-full mx-auto lg:ml-72 ml-4 mt-16'>
                 <img className='w-40' src='https://i.ibb.co/GC3v328/download-removebg-preview.png' alt='pic'/>
             </div>
             <div className='flex flex-row w-full justify-evenly'>
